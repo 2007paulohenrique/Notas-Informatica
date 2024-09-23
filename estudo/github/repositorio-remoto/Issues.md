@@ -8,31 +8,31 @@ As issues (ou "problemas") no GitHub são uma ferramenta essencial para gerencia
 
 Para criar uma issue, clique na aba "Issues" do repositório e, em seguida, clicando no botão "New issue". As issues geralmente têm um título e uma descrição que explicam o que é necessário.
 
-![Aba de criação de uma Issue](img/issue.png)
+![Aba de criação de uma Issue](../../img/issue.png)
 
 2. **Labels**:
 
 As issues podem ser organizadas usando etiquetas (labels). Labels ajudam a categorizar as issues por tipo (bug, feature, improvement, etc.), prioridade, ou qualquer outro critério que você desejar.
 
-![Apontamento à Label](img/label.png)
+![Apontamento à Label](../../img/label.png)
 
 3. **Atribuição**:
 
 As issues podem ser atribuidas a membros da equipe, o que ajuda a esclarecer quem é responsável por resolver ou acompanhar a issue.
 
-![Apontamento à atribuição](img/assignees.png)
+![Apontamento à atribuição](../../img/assignees.png)
 
 4. **Comentários**:
 
 As issues permitem discussões através de comentários. Isso é útil para esclarecer requisitos, discutir soluções ou revisar o progresso.
 
-![Apontamento a comentário](img/comment.png)
+![Apontamento a comentário](../../img/comment.png)
 
 5. **Fechamento**:
 
 Quando uma issue é resolvida, ela pode ser fechada. Isso pode ser feito automaticamente através de um commit que menciona a issue: `git commit -m "Fixes #numero-da-issue: mensagem"` ou manualmente.
 
-![Apontamento a fechamento](img/close.png)
+![Apontamento a fechamento](../../img/close.png)
 
 ## Fluxo de Trabalho com Issues
 
